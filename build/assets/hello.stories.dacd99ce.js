@@ -1,0 +1,1 @@
+import{j as e}from"./index.05b64185.js";const o=()=>e("p",{children:"Hey"});typeof window<"u"&&window.document&&window.document.createElement&&document.documentElement.setAttribute("data-storyloaded","");export{o as World};
